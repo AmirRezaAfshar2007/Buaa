@@ -42,3 +42,19 @@ A Chinese-character learning platform with spaced-repetition (SM-2) practice, an
 "# Beihang-University-Mandarin-Flow" 
 "# Update1" 
 "# Buaa" 
+
+
+
+git init
+
+git add .
+
+git commit -m "upload project"
+
+git branch -M main
+
+git remote remove origin
+
+git remote add origin https://github.com/AmirRezaAfshar2007/buaa.git
+
+git push -u origin main
